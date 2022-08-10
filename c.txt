@@ -1,1 +1,3 @@
 noi dung c
+
+test noi dung c
